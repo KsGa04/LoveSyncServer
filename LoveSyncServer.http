@@ -1,0 +1,6 @@
+@LoveSyncServer_HostAddress = http://localhost:5114
+
+GET {{LoveSyncServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
